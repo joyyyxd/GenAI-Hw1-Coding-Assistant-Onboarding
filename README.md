@@ -14,6 +14,7 @@ I created a GitHub repository, cloned it to my local computer, created the requi
 - Initial repository setup
 - Add assistant-created draft
 - Add manually edited final version
+- Update README with workflow summary
 
 ## Video Link
 (Add your unlisted YouTube or Vimeo link here after recording the walkthrough video.)
