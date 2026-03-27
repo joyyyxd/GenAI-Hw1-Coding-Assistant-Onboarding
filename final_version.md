@@ -4,7 +4,7 @@
 
 # Using AI to Improve Computer Hardware Design
 
-I am interested in computer hardware because I like practical problem solving and understanding how systems work. In hardware engineering, designers often need to balance speed, power use, heat, cost, and complexity. This makes the work challenging, and it also creates opportunities for generative AI to help with analysis and communication.S
+I am interested in computer hardware because I like practical problem solving and understanding how systems work. In hardware engineering, designers often need to balance speed, power use, heat, cost, and complexity. This makes the work challenging, and it also creates opportunities for generative AI to help with analysis and communication.
 
 **Ways Generative AI Could Help in Hardware Engineering:**
 
