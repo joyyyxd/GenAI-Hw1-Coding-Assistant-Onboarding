@@ -17,4 +17,4 @@ I created a GitHub repository, cloned it to my local computer, created the requi
 - Update README with workflow summary
 
 ## Video Link
-(Add your unlisted YouTube or Vimeo link here after recording the walkthrough video.)
+(Add unlisted YouTube link here after recording the walkthrough video.)
